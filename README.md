@@ -13,4 +13,4 @@
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/all%20critical.png?raw=true" alt="severity critical">
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/alert.png?raw=true" alt="alert">
 
-<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="failed logins">
+
