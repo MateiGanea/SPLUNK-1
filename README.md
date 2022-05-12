@@ -11,6 +11,12 @@
 
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/severity%20count.png?raw=true" alt="severity count">
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/all%20critical.png?raw=true" alt="severity critical">
+# source="5rk4qx.csv" host="6b06fe86d4ec" sourcetype="csv" dest_ip=10.11.36.23 severity=critical
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/alert.png?raw=true" alt="alert">
 
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/failed%20logins.png?raw=true" alt="alert">
 
+# 9AM FEB 21 2020 to 1PM FEB 21 2020
+threshold set at >16
+
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/final%20alert.png?raw=true" alt="alert">
