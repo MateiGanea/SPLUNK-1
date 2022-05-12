@@ -1,5 +1,7 @@
 # SPLUNK-1
-<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio command.png?raw=true" alt="network diagram">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio command.png?raw=true" alt="ratio command">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="ratio">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/table.png?raw=true" alt="ratio">
 
 # source="n8ixlr.csv" sourcetype="csv" host=6b06fe86d4ec | eval ratio=(DOWNLOAD_MEGABITS/UPLOAD_MEGABITS) | table _time, IP_ADDRESS, DOWNLOAD_MEGABITS, UPLOAD_MEGABITS, ratio
 
@@ -7,4 +9,8 @@
 
 # 9 hr recovery
 
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="severity count">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="severity critical">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="alert">
 <img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="network diagram">
+<img src="https://github.com/MateiGanea/SPLUNK-1/blob/main/screenshots/ratio.png?raw=true" alt="failed logins">
